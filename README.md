@@ -2,10 +2,10 @@
 
 **`Data Analyst`**
 
-Meu nome é Kailany Sampaio, tenho 23 anos e sou natural da Bahia. Graduada no curso de Engenharia da Computação na UNIFAN em Feira de Santana - BA. Atualmente, sou mestranda na UEFS em Ciência da Computação (como Aluna Especial). Conheci a área da tecnologia e fiquei fascinada. Com muitas opções de carreira, me apaixonei pela área de Dados e também pela programação. Meu objetivo é trabalhar com dados e mostrar como eles são importantes para a tomada de decisões.
+Meu nome é Kailany Sampaio, tenho 23 anos e sou natural da Bahia. Formada no curso de Engenharia da Computação na UNIFAN em Feira de Santana - BA. Atualmente, sou mestranda na UEFS em Ciência da Computação (como Aluna Especial). Conheci a área da tecnologia e fiquei fascinada. Com muitas opções de carreira, me apaixonei pela área de Dados e também pela programação. Meu objetivo é trabalhar com dados e mostrar como eles são importantes para a tomada de decisões.
 
 
-My name is Kailany Sampaio, I am 22 years old and I am from Bahia. I will graduate in 2025 in the Computer Engineering course at UNIFAN in Feira de Santana - BA. I am currently a master's student at UEFS in Computer Science (as a Special Student). I discovered the technology area and was fascinated. With many career options, I fell in love with the area of ​​Data Science and also with programming. My goal is to work with data and show how important it is for decision making.
+My name is Kailany Sampaio, I'm 23 years old, and I'm from Bahia. I graduated in Computer Engineering from UNIFAN in Feira de Santana, Bahia. I'm currently pursuing a master's degree in Computer Science at UEFS (as a Special Student). I discovered the technology field and was fascinated. With many career options, I fell in love with data science and programming. My goal is to work with data and demonstrate its importance for decision-making.
 
 ## Linguagens / Ferramentas:
 
